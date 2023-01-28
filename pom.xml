@@ -3,7 +3,9 @@
   <groupId>KVFramework</groupId>
   <artifactId>KVFramework</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+    <properties>
+    <java.version>11</java.version>
+</properties>
    <dependencies>
   
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
