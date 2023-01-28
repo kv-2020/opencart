@@ -111,8 +111,8 @@
 		          <groupId>org.apache.maven.plugins</groupId>
 		          <artifactId>maven-compiler-plugin</artifactId>
 				 <configuration>
-					<source>11</source>  <!-- same as <java.version> -->
-					<target>11</target>    <!-- same as <java.version> -->
+					<source>11</source> 
+					
 			    	</configuration>
 		          <version>3.10.1</version>
 		      </plugin>
